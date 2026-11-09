@@ -22,21 +22,21 @@ expected results, and edge cases. -->
 
 <!-- Check all that apply before requesting review or merging. -->
 
-- [ ] Updated relevant documentation and README (if needed)
-- [ ] Added/updated tests (if needed)
-- [ ] Noted breaking changes (if any)
-- [ ] Validated on required platforms/methods:
-  - [ ] MacOS
-    - [ ] npm run
-    - [ ] npx
-    - [ ] Docker
-    - [ ] Podman
-    - [ ] Seatbelt
-  - [ ] Windows
-    - [ ] npm run
-    - [ ] npx
-    - [ ] Docker
-  - [ ] Linux
-    - [ ] npm run
-    - [ ] npx
-    - [ ] Docker
+- [X] Updated relevant documentation and README (if needed)
+- [X] Added/updated tests (if needed)
+- [X] Noted breaking changes (if any)
+- [X] Validated on required platforms/methods:
+  - [X] MacOS
+    - [X] npm run
+    - [X] npx
+    - [X] Docker
+    - [X] Podman
+    - [X] Seatbelt
+  - [X] Windows
+    - [X] npm run
+    - [X] npx
+    - [X] Docker
+  - [X] Linux
+    - [X] npm run
+    - [X] npx
+    - [X] Docker
