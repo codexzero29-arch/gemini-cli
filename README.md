@@ -105,7 +105,7 @@ npm install -g @google/gemini-cli@latest
 ```bash
 npm install -g @google/gemini-cli@nightly
 ```
-
+ 
 ## 📋 Key Features
 
 ### Code Understanding & Generation
