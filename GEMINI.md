@@ -1,5 +1,5 @@
 # Gemini CLI Project Context
-
+ 
 Gemini CLI is an open-source AI agent that brings the power of Gemini directly
 into the terminal. It is designed to be a terminal-first, extensible, and
 powerful tool for developers.
